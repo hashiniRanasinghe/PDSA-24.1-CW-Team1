@@ -1,0 +1,9 @@
+C:\Users\akash\source\repos\PDSAPROJECT_TEAM1\PDSAPROJECT_TEAM1\bin\Debug\PDSAPROJECT_TEAM1.exe.config
+C:\Users\akash\source\repos\PDSAPROJECT_TEAM1\PDSAPROJECT_TEAM1\bin\Debug\PDSAPROJECT_TEAM1.exe
+C:\Users\akash\source\repos\PDSAPROJECT_TEAM1\PDSAPROJECT_TEAM1\bin\Debug\PDSAPROJECT_TEAM1.pdb
+C:\Users\akash\source\repos\PDSAPROJECT_TEAM1\PDSAPROJECT_TEAM1\obj\Debug\PDSAPROJECT_TEAM1.csproj.AssemblyReference.cache
+C:\Users\akash\source\repos\PDSAPROJECT_TEAM1\PDSAPROJECT_TEAM1\obj\Debug\PDSAPROJECT_TEAM1.Properties.Resources.resources
+C:\Users\akash\source\repos\PDSAPROJECT_TEAM1\PDSAPROJECT_TEAM1\obj\Debug\PDSAPROJECT_TEAM1.csproj.GenerateResource.cache
+C:\Users\akash\source\repos\PDSAPROJECT_TEAM1\PDSAPROJECT_TEAM1\obj\Debug\PDSAPROJECT_TEAM1.csproj.CoreCompileInputs.cache
+C:\Users\akash\source\repos\PDSAPROJECT_TEAM1\PDSAPROJECT_TEAM1\obj\Debug\PDSAPROJECT_TEAM1.exe
+C:\Users\akash\source\repos\PDSAPROJECT_TEAM1\PDSAPROJECT_TEAM1\obj\Debug\PDSAPROJECT_TEAM1.pdb
